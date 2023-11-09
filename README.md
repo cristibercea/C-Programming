@@ -1,2 +1,2 @@
 # C-Programming
-- Projects are made in CodeBlocks IDE, v20.03
+- Projects are made with CodeBlocks IDE, v20.03
