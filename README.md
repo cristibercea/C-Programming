@@ -7,5 +7,5 @@
   - FinancialApp Video Presentation (the video was too big to add it in the repo): https://youtu.be/wjQWZjiMjyQ
 - # Project2:
   - FinancialApp_v2 Documentation: [Documentation_FinancialApp_v2.docx](https://github.com/cristibercea/C-Programming/files/13841736/Documentation_FinancialApp_v2.docx)
-  - FinancialApp_v2 Video Presentation (the video was too big to add it in the repo): (not done yet)
+  - FinancialApp_v2 Video Presentation (the video was too big to add it in the repo): https://youtu.be/ECbQ9jg3V4s
 
