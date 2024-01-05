@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1704376020 source:d:\codeblocks\financialapp_v2\main.c
+	"tests.h"
+
+1704375411 d:\codeblocks\financialapp_v2\interface.h
+
+1703426500 source:d:\codeblocks\financialapp_v2\interface.h
+	<stdio.h>
+
+1704370957 source:d:\codeblocks\financialapp_v2\interface.c
+	"interface.h"
+	"services.h"
+	"domain.h"
+
+1704302567 source:d:\codeblocks\financialapp_v2\domain.c
+	"domain.h"
+
+1704370622 d:\codeblocks\financialapp_v2\domain.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1704375125 source:d:\codeblocks\financialapp_v2\services.c
+	"interface.h"
+	"services.h"
+	"domain.h"
+
+1704375130 d:\codeblocks\financialapp_v2\services.h
+
+1704376036 d:\codeblocks\financialapp_v2\tests.h
+	"interface.h"
+	"services.h"
+	"domain.h"
+
+1704376444 source:d:\codeblocks\financialapp_v2\tests.c
+	"tests.h"
+	<assert.h>
+
